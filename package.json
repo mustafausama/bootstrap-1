@@ -1,0 +1,25 @@
+{
+  "name": "week-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustafausama/git.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mustafausama/git/issues"
+  },
+  "homepage": "https://github.com/mustafausama/git#readme",
+  "description": ""
+}
