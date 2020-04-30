@@ -1,11 +1,8 @@
 {
-  "name": "week-1",
+  "name": "confusion",
   "version": "1.0.0",
-  "main": "index.js",
-  "dependencies": {
-    "lite-server": "^2.5.4"
-  },
-  "devDependencies": {},
+  "description": "This is a website for Ristorante Con Fusion",
+  "main": "index.html",
   "scripts": {
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,13 +10,12 @@
   },
   "author": "",
   "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mustafausama/git.git"
+  "devDependencies": {
+    "lite-server": "^2.5.4"
   },
-  "bugs": {
-    "url": "https://github.com/mustafausama/git/issues"
-  },
-  "homepage": "https://github.com/mustafausama/git#readme",
-  "description": ""
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.5.0",
+    "popper.js": "^1.16.1"
+  }
 }
